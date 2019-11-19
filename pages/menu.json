@@ -1,0 +1,22 @@
+{
+    "常用推荐": {
+        "icon": "linecons-star"
+    },
+    "站长工具": {
+        "icon": "linecons-thumbs-up",
+        "item": {
+            "加密解密": "",
+            "字数统计": "",
+            "代码处理": "",
+            "HTTP测试": "",
+            "WhoIs": ""
+        }
+    },
+    "参考手册": {
+        "icon": "linecons-pencil",
+        "item": {
+            "设计规范": "",
+            "交互设计": ""
+        }
+    }
+}

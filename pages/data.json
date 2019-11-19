@@ -1,0 +1,188 @@
+{
+    "常用推荐": {
+        "百度脑图": {
+            "url": "http://naotu.baidu.com/home",
+            "name": "百度脑图",
+            "disc": "在线绘制流程图",
+            "img": "naotu.webp"
+        },
+        "马克飞象": {
+            "url": "https://maxiang.io/",
+            "name": "马克飞象",
+            "disc": "在线识别、生成二维码",
+            "img": "mkfx.webp"
+        },
+        "草料二维码": {
+            "url": "https://cli.im/deqr",
+            "name": "草料二维码",
+            "disc": "在线识别、生成二维码",
+            "img": "qr.webp"
+        },
+        "TinyPng": {
+            "url": "https://tinypng.com/",
+            "name": "TinyPng",
+            "disc": "在线图片批量压缩 单张上传限制在5MB内",
+            "img": "tinypng.webp"
+        },
+        "无损压缩图片":{
+            "url":"http://www.bejson.com/ui/compress_img/",
+            "name":"无损压缩图片",
+            "disc": "Bejson出品 支持png格式",
+            "img": "bejson.webp"
+        },
+        "BigJpg":{
+            "url":"http://bigjpg.com/",
+            "name":"BigJpg",
+            "disc": "AI人工智能图片放大",
+            "img": "bigjpg.webp"
+        },
+        "Carbon": {
+            "url": "https://carbon.now.sh",
+            "name": "Carbon",
+            "disc": "生成代码高亮图片",
+            "img": "carbon.webp"
+        },
+        "planetB": {
+            "url": "http://www.planetb.ca/syntax-highlight-word",
+            "name": "planetB 代码高亮",
+            "disc": "在线代码高亮 可复制到Word",
+            "img": "planetb.webp"
+        },
+        "SpeedTest": {
+            "url": "http://www.speedtest.net/zh-Hans",
+            "name": "speedtest",
+            "disc": "在线测速",
+            "img": "speedtest.webp"
+        },
+        "YOPmail": {
+            "url": "http://www.yopmail.com/zh/",
+            "name": "YOPmail",
+            "disc": "临时、匿名的免费邮箱地址",
+            "img": "mail.webp"
+        }
+    },
+    "加密解密": {
+        "Coolaf": {
+            "url": "http://coolaf.com/tool/ud",
+            "name": "Coolaf加密解密",
+            "disc": "支持Base64、MD5、URL、SHA",
+            "img": "coolaf.webp"
+        },
+        "站长工具编码": {
+            "url": "http://tool.chinaz.com/Tools/base64.aspx",
+            "name": "站长工具编码",
+            "disc": "支持Base64、MD5、URL、JS等",
+            "img": "chinaz.webp"
+        },
+        "BeJson": {
+            "url": "http://www.bejson.com/enc/base64/",
+            "name": "BeJson 加解密",
+            "disc": "支持Base64、MD5、DES、摩斯电码等",
+            "img": "bejson.webp"
+        },
+        "OnlineTools": {
+            "url": "https://emn178.github.io/online-tools/index.html",
+            "name": "Online Tools",
+            "disc": "在线加解密 支持超多种编码方式",
+            "img": "code.webp"
+        }
+    },
+    "字数统计": {
+        "在线字数统计": {
+            "url": "http://www.eteste.com/",
+            "name": "在线字数统计",
+            "disc": "适合统计中文",
+            "img": "counter.webp"
+        },
+        "在线字数计算器": {
+            "url": "http://www.mingmu.net/zishu.html",
+            "name": "在线字数计算器",
+            "disc": "适合统计中文",
+            "img": "counter.webp"
+        },
+        "ChinaZ": {
+            "url": "http://tool.chinaz.com/tools/wordcounter/",
+            "name": "ChinaZ 字数统计",
+            "disc": "站长工具出品 适合统计中英文",
+            "img": "chinaz.webp"
+        },
+        "WordCounter": {
+            "url": "https://wordcounter.io/",
+            "name": "Word Counter",
+            "disc": "适合统计英文",
+            "img": "wordcounter.webp"
+        }
+    },
+    "代码处理": {
+        "CodeFormat": {
+            "url": "http://coolaf.com/tool/ff",
+            "name": "XML/SQL/HTML格式化",
+            "disc": "Coolaf出品",
+            "img": "coolaf.webp"
+        },
+        "ChinaZ": {
+            "url": "http://tool.chinaz.com/Tools/jsformat.aspx",
+            "name": "ChinaZ 格式化",
+            "disc": "支持JS/HTML/CSS",
+            "img": "chinaz.webp"
+        },
+        "CssJs": {
+            "url": "https://www.css-js.com/",
+            "name": "Css.Js",
+            "disc": "JS压缩、解压、格式化、混淆加密解密",
+            "img": "js.webp"
+        },
+        "Bejson": {
+            "url": "http://www.bejson.com/otherformat/css/",
+            "name": "Bejson 格式化",
+            "disc": "支持XML/HTML/JS/SQL/CSS",
+            "img": "bejson.webp"
+        }
+    },
+    "HTTP测试":{
+        "Getman": {
+            "url": "https://getman.cn/",
+            "name": "Getman",
+            "disc": "多种HTTP方法测试",
+            "img": "getman.webp"
+        },
+        "Coolaf HTTP 测试": {
+            "url": "http://coolaf.com/tool/gp",
+            "name": "Coolaf HTTP 测试",
+            "disc": "Coolaf出品",
+            "img": "coolaf.webp"
+        }
+    },
+    "WhoIS":{
+        "ChinaZ WhoIs": {
+            "url": "http://whois.chinaz.com/",
+            "name": "ChinaZ WhoIs",
+            "disc": "站长工具出品",
+            "img": "chinaz.webp"
+        },
+        "Icann WhoIs": {
+            "url": "https://whois.icann.org/en",
+            "name": "Icann WhoIs",
+            "disc": "Icann出品",
+            "img": "icann.webp"
+        },
+        "WhoIs": {
+            "url": "https://www.whois.com/",
+            "name": "WhoIs",
+            "disc": "WhoIs的WhoIs查询网页",
+            "img": "whois.webp"
+        },
+        "Alexa WhoIs": {
+            "url": "http://whois.alexa.cn/",
+            "name": "Alexa WhoIs",
+            "disc": "Alexa出品",
+            "img": "alexa.webp"
+        },
+        "万网查询": {
+            "url": "http://whois.aliyun.com/",
+            "name": "万网查询",
+            "disc": "阿里云出品",
+            "img": "aliyun.webp"
+        }
+    }
+}
