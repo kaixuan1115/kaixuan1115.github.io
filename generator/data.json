@@ -94,6 +94,12 @@
             "name": "Markdown编辑器",
             "disc": "Markdown编辑器",
             "img": "default.webp"
+        },
+        "Bilibili": {
+            "url": "https://www.bilibili.com",
+            "name": "哔哩哔哩",
+            "disc": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+            "img": "bilibili.ico"
         }
     },
     "搜索引擎": {
