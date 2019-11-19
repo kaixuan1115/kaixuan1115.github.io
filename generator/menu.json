@@ -1,0 +1,18 @@
+{
+    "常用推荐": {
+        "icon": "linecons-star"
+    },
+    "搜索引擎": {
+        "icon": "linecons-search"
+    },
+    "关注博客": {
+        "icon": "linecons-note"
+    },
+    "应用软件": {
+        "icon": "linecons-desktop",
+        "item": {
+            "发现产品": "",
+            "应用商城": ""
+        }
+    }
+}
