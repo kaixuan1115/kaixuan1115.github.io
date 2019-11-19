@@ -2,12 +2,11 @@
 
 这个项目是为了做一个适合自己的首页，加入了哈尔滨工业大学（深圳）的常用网站，所以也可以作为类似[北邮人导航](byr.wiki)的哈工深版。
 
-demo 地址: [➡️ 造作家](https://www.hitsz.top/)
+demo 地址: [➡️ 导航站](https://cpper-kaixuan.gitee.io)
 
-我的博客: [www.rhinoc.top](https://rhinoc.top/)
 
 #### feature
-[x] 根据JSON文件自动生成网页（目前支持`index.html`和`about.html`）
+[x] 根据JSON文件自动生成网页（目前支持`index.html`、`about.html`和`pages/tool.html`）
 [x] 支持阿里巴巴iconfont
 [x] 类地址栏搜索（有关类地址栏搜索下面会说明）
 [ ] 搜索结果建议
@@ -16,7 +15,7 @@ demo 地址: [➡️ 造作家](https://www.hitsz.top/)
 欢迎PR～
 
 
-#### generator.py 使用说明
+#### generator.js/generator.py 使用说明
 
 直接运行即可。
 JSON文件和头部尾部HTML文件都在同级目录下，根据自己需要修改。
@@ -35,6 +34,7 @@ tb 淘宝
 gh GitHub
 gg Google
 ddg DuckDuckGo
+tt Twitter
 ```
 
 -------
