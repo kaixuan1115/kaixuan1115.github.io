@@ -17,6 +17,7 @@
         "Twitter": {
             "url": "https://twitter.com/",
             "name": "Twitter",
+            "kw": "tt",
             "disc": "看看世界上的新鲜事",
             "img": "twitter.webp"
         },
@@ -37,7 +38,7 @@
         "知乎":{
             "url":"https://www.zhihu.com/explore",
             "name":"知乎",
-            "kw": "db",
+            "kw": "zh",
             "disc": "国内最受欢迎的知识性问答社区",
             "img": "zhihu.webp"
         },

@@ -86,6 +86,13 @@ $("input:text").bind("input propertychange",function(){
       input.placeholder = "Search WolframAlpha";
       mode = 'search';
       break;
+    case 'tt ':
+      form.action = "https://twitter.com/search";
+      input.name = "q";
+      input.value = "";
+      input.placeholder = "Search Twitter";
+      mode = 'search';
+      break;
   }
 
   function isURL(str) {
