@@ -6,11 +6,11 @@ demo 地址: [➡️ 导航站](https://cpper-kaixuan.gitee.io)
 
 
 #### feature
-[x] 根据JSON文件自动生成网页（目前支持`index.html`、`about.html`和`pages/tool.html`）
-[x] 支持阿里巴巴iconfont
-[x] 类地址栏搜索（有关类地址栏搜索下面会说明）
-[ ] 搜索结果建议
-[ ] 页面内搜索
+- [x] 根据JSON文件自动生成网页（目前支持`index.html`、`about.html`和`pages/tool.html`）
+- [x] 支持阿里巴巴iconfont
+- [x] 类地址栏搜索（有关类地址栏搜索下面会说明）
+- [ ] 搜索结果建议
+- [ ] 页面内搜索
 
 欢迎PR～
 
