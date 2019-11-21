@@ -73,7 +73,7 @@ $("input:text").bind("input propertychange",function(){
       mode = 'search';
       break;
     case 'wk ':
-      form.action = "https://en.wikipedia.org/wiki/";
+      form.action = "https://zh.wikipedia.org/wiki/";
       input.name = "search";
       input.value = "";
       input.placeholder = "Search Wikipedia";

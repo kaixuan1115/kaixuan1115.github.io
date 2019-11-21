@@ -55,7 +55,7 @@
             "img": "outlook.webp"
         },
         "thepriatebay": {
-            "url": "https://thepiratebay.cr/",
+            "url": "https://thepiratebay.org/",
             "name": "The Pirate Bay",
             "disc": "全球最大的BT种子服务器",
             "img": "pirate.webp"
@@ -75,13 +75,13 @@
         "126邮箱": {
             "url": "http://www.126.com/",
             "name": "126邮箱",
-            "disc": "126邮箱",
+            "disc": "你的专业电子邮箱",
             "img": "126.webp"
         },
         "Yeah": {
             "url": "http://www.yeah.net/",
             "name": "Yeah",
-            "disc": "Yeah邮箱",
+            "disc": "Yeah.net网易免费邮",
             "img": "126.webp"
         },
         "JSON格式化": {
@@ -144,12 +144,6 @@
             "disc": "自带搜索结果预览",
             "img": "peekier.webp"
         },
-        "webcrawler": {
-            "url": "https://www.webcrawler.com/",
-            "name": "WebCrawler",
-            "disc": "元搜索引擎",
-            "img": "webcrawler.webp"
-        },
         "wolframalpha": {
             "url": "https://www.wolframalpha.com/",
             "name": "WolframAlpha",
@@ -168,6 +162,12 @@
             "name": "Qwant",
             "disc": "法国隐私且中立的搜索引擎",
             "img": "qwant.webp"
+        },
+        "linuxcommand": {
+            "url": "https://jaywcjlove.gitee.io/linux-command/",
+            "name": "Linux 命令搜索",
+            "disc": "Linux命令搜索引擎 命令详解",
+            "img": "linux.webp"
         },
         "torrentkitty": {
             "url": "https://www.torrentkitty.tv/",
