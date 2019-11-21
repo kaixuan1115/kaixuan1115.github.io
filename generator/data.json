@@ -168,6 +168,12 @@
             "name": "Qwant",
             "disc": "法国隐私且中立的搜索引擎",
             "img": "qwant.webp"
+        },
+        "torrentkitty": {
+            "url": "https://www.torrentkitty.tv/",
+            "name": "Torrent Kitty",
+            "disc": "BT种子转换与搜索",
+            "img": "kitty.webp"
         }
     },
     "发现产品": {
