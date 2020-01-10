@@ -48,17 +48,11 @@
             "disc": "百度旗下网盘服务",
             "img": "baiducloud.webp"
         },
-        "outlook": {
+        "Outlook": {
             "url": "https://outlook.live.com/owa/",
             "name": "Outlook",
             "disc": "微软出品的电子邮件",
             "img": "outlook.webp"
-        },
-        "thepriatebay": {
-            "url": "https://thepiratebay.org/",
-            "name": "The Pirate Bay",
-            "disc": "全球最大的BT种子服务器",
-            "img": "pirate.webp"
         },
         "学术搜索": {
             "url": "http://scholar.chongbuluo.com/",
@@ -95,6 +89,12 @@
             "name": "Markdown编辑器",
             "disc": "Markdown编辑器",
             "img": "gitee.webp"
+        },
+        "Youtube": {
+            "url": "https://www.youtube.com/",
+            "name": "Youtube",
+            "disc": "全球最大的视频分享网站",
+            "img": "youtube.webp"
         },
         "Bilibili": {
             "url": "https://www.bilibili.com",
@@ -168,6 +168,12 @@
             "name": "Linux 命令搜索",
             "disc": "Linux命令搜索引擎 命令详解",
             "img": "linux.webp"
+        },
+        "thepriatebay": {
+            "url": "https://thepiratebay.org/",
+            "name": "The Pirate Bay",
+            "disc": "全球最大的BT种子服务器",
+            "img": "pirate.webp"
         },
         "torrentkitty": {
             "url": "https://www.torrentkitty.tv/",
