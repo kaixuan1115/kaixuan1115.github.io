@@ -28,6 +28,12 @@
             "disc": "中国最大的网络零售平台",
             "img": "taobao.webp"
         },
+        "京东": {
+            "url": "https://www.jd.com/",
+            "name": "京东",
+            "disc": "中国自营式电商平台",
+            "img": "jingdong.webp"
+        },
         "豆瓣":{
             "url":"https://movie.douban.com/",
             "name":"豆瓣电影",
