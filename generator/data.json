@@ -170,21 +170,21 @@
             "img": "qwant.webp"
         },
         "linuxcommand": {
-            "url": "https://jaywcjlove.gitee.io/linux-command/",
+            "url": "https://jaywcjlove.github.io/linux-command/",
             "name": "Linux 命令搜索",
             "disc": "Linux命令搜索引擎 命令详解",
             "img": "linux.webp"
         },
-        "thepriatebay": {
-            "url": "https://thepiratebay.org/",
-            "name": "The Pirate Bay",
-            "disc": "全球最大的BT种子服务器",
-            "img": "pirate.webp"
+        "BTDigg": {
+            "url": "https://btdig.com/",
+            "name": "BTDigg",
+            "disc": "老牌种子磁力搜索",
+            "img": "btdig.webp"
         },
         "torrentkitty": {
             "url": "https://www.torrentkitty.tv/",
             "name": "Torrent Kitty",
-            "disc": "BT种子转换与搜索",
+            "disc": "BT猫种子磁力搜索",
             "img": "kitty.webp"
         }
     },
