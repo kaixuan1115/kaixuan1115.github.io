@@ -269,10 +269,10 @@
             "disc": "Google 应用市场",
             "img": "googleplay.webp"
         },
-        "Microsoft Store": {
-            "url": "https://www.microsoft.com/en-us/store/apps/windows",
-            "name": "Microsoft Store",
-            "disc": "微软 UWP 应用商城",
+        "Microsoft Edge Store": {
+            "url": "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home",
+            "name": "Microsoft Edge Store",
+            "disc": "微软 Edge 应用商城",
             "img": "microsoft.webp"
         },
         "fnd": {
