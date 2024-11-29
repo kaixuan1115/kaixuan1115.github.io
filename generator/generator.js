@@ -27,7 +27,7 @@ function genItem(dict) {
     line.push('\t\t\t</div>')
     line.push('\t\t</div>')
     line.push('\t</div>')
-    return line.join('\n');
+    return line.join('\n') + '\n';
 }
 
 function genMenu(menu) {
@@ -52,7 +52,7 @@ function genMenu(menu) {
         }
         line.push('\t\t\t\t\t</li>')
     }
-    return line.join('\n');
+    return line.join('\n') + '\n';
 }
 
 function genMenua(menu) {
@@ -77,7 +77,7 @@ function genMenua(menu) {
         }
         line.push('\t\t\t\t\t</li>')
     }
-    return line.join('\n');
+    return line.join('\n') + '\n';
 }
 
 // load json file

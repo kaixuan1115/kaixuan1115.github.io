@@ -92,18 +92,18 @@ menuJson = open('menu.json', 'r', encoding='utf-8')
 menuText = json.load(menuJson)
 
 # load header, mid, footer
-iheaderFile = open('iheader.html','r')
-aheaderFile = open('aheader.html','r')
+iheaderFile = open('iheader.html','r', encoding='utf-8')
+aheaderFile = open('aheader.html','r', encoding='utf-8')
 iheader = iheaderFile.read()
 aheader = aheaderFile.read()
-midFile = open('mid.html','r')
-footerFile = open('footer.html','r')
-feeterFile = open('feeter.html','r')
+midFile = open('mid.html','r', encoding='utf-8')
+footerFile = open('footer.html','r', encoding='utf-8')
+feeterFile = open('feeter.html','r', encoding='utf-8')
 
 #
-indexFile = open('../index.html','w')
+indexFile = open('../index.html','w', encoding='utf-8')
 indexFile.write(iheader)
-aboutFile = open('../pages/about.html','w')
+aboutFile = open('../pages/about.html','w', encoding='utf-8')
 aboutFile.write(aheader)
 
 
