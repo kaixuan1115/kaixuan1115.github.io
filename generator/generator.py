@@ -86,24 +86,24 @@ def genMenua(menu):
     return part
 
 # load json file
-dataJson = open('data.json', 'r', encoding='utf-8')
+dataJson = open('data.json', 'r', encoding='utf-8', newline='')
 dataText = json.load(dataJson)
-menuJson = open('menu.json', 'r', encoding='utf-8')
+menuJson = open('menu.json', 'r', encoding='utf-8', newline='')
 menuText = json.load(menuJson)
 
 # load header, mid, footer
-iheaderFile = open('iheader.html','r', encoding='utf-8')
-aheaderFile = open('aheader.html','r', encoding='utf-8')
+iheaderFile = open('iheader.html','r', encoding='utf-8', newline='')
+aheaderFile = open('aheader.html','r', encoding='utf-8', newline='')
 iheader = iheaderFile.read()
 aheader = aheaderFile.read()
-midFile = open('mid.html','r', encoding='utf-8')
-footerFile = open('footer.html','r', encoding='utf-8')
-feeterFile = open('feeter.html','r', encoding='utf-8')
+midFile = open('mid.html','r', encoding='utf-8', newline='')
+footerFile = open('footer.html','r', encoding='utf-8', newline='')
+feeterFile = open('feeter.html','r', encoding='utf-8', newline='')
 
-#
-indexFile = open('../index.html','w', encoding='utf-8')
+
+indexFile = open('../index.html','w', encoding='utf-8', newline='')
 indexFile.write(iheader)
-aboutFile = open('../pages/about.html','w', encoding='utf-8')
+aboutFile = open('../pages/about.html','w', encoding='utf-8', newline='')
 aboutFile.write(aheader)
 
 
